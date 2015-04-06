@@ -1,4 +1,4 @@
-##Emmagee - a practical, handy performance test tool for specified Android App
+﻿##Emmagee - a practical, handy performance test tool for specified Android App
 
 Emmagee is a practical, handy performance test tool for specified Android App, which can monitor CPU, memory, 
 network traffic, battery current and status([Some devices are not supported](https://github.com/NetEase/Emmagee/wiki/Some-devices-are-not-supported)), new features such as top activity and heap size if rooted([Root Toast may continously show](https://github.com/NetEase/Emmagee/wiki/FAQ)), are also supported in the [latest version](https://github.com/NetEase/Emmagee/releases). Additionally, it also provides several cool features such as customizing interval of collecting data,
@@ -76,4 +76,4 @@ Copyright (c) 2012-2015 NetEase, Inc. and other contributors
    See the License for the specific language governing permissions and
    limitations under the License.
    
-   #安卓培训班
+   
